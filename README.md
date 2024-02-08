@@ -13,7 +13,7 @@ Highly passionated and determined about being a detail-oriented professional in 
 * ✉️  You can contact me at [cesar.olveraespinosa@gmail.com](mailto:cesar.olveraespinosa@gmail.com)
 * 🧠  I'm learning AWS, Kubernetes, Terraform, Jenkins
 * 🤝  I'm open to collaborating on IoT, Cloud, Network and ML
-* ⚡  I play violin and futsal, and dance salsa and bachata
+* ⚡  I like playing soccer, playing violin, dancing salsa/bachata, biking, and drawing
 
 ### Languages and Tools
 
