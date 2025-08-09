@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm César Olvera
 ======================================================================================================================================
 
-MSc. in Communication Engineering @ Aalto University | Cloud, Network & IoT
+MSc. in Communication Engineering @ Aalto University | Cloud and Network Services
 -----------------------------------------------------------------
 
-Graduated with an MSc in Communication Engineering from Aalto University (Finland), specializing in Cloud and Network Services. 
+Graduated with a MSc in Communication Engineering from Aalto University (Finland), specializing in Cloud and Network Services. 
 
 Highly passionated and determined about being a detail-oriented professional in cloud computing, network systems, and software development, with strong academic, professional and international experience in computer networks and cloud computing. Seeking to acquire excellent knowledge for solution-oriented and leverage my skills to contribute to the sucess of a forward-thinking organization with new challenges and future technologies
 
